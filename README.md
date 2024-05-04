@@ -1,4 +1,4 @@
-# BreadcrumbsSuper_Store_Sales_PowerBI_Dashboard
+# Super_Store_Sales_PowerBI_Dashboard
 
 1. Sales Overview: Visualizations showing total sales revenue, sales trends over time (daily, weekly, monthly, or yearly), and comparisons with previous periods.
    
